@@ -4,17 +4,17 @@
 
 <br />
 
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/js.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/ts.png"/>ㅤ 
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/bootstrap.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/html.png"/>ㅤ 
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/css.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/react.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/express.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/nodejs.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/nextjs.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/mongodb.png"/>ㅤ
-<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/master/images/python.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/js.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/ts.png"/>ㅤ 
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/bootstrap.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/html.png"/>ㅤ 
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/css.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/react.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/express.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/nodejs.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/nextjs.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/mongodb.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/python.png"/>ㅤ
 
 <br />
 
