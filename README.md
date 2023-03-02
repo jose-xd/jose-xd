@@ -15,6 +15,7 @@
 <img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/nextjs.png"/>ㅤ
 <img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/mongodb.png"/>ㅤ
 <img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/python.png"/>ㅤ
+<img align="center" width="50px" src="https://github.com/jose-xd/jose-xd/blob/main/images/firebase.png"/>ㅤ
 
 <br />
 
