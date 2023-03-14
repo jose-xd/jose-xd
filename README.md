@@ -1,6 +1,6 @@
 ### Welcome to my profile, my name is Jose and I'm a programmer
 
-<a href="https://portfolio-jose-xd.vercel.app/">My Portfolio</a>
+<h2><a href="https://portfolio-jose-xd.vercel.app/">My Portfolio</a></h2>
 
 ### My Skills:
 
